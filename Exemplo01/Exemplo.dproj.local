@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/08 19:47:25.000.102,=C:\Users\computador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 21:15:23.000.870,=C:\Users\computador\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2021/08/05 21:15:29.000.252,=C:\Users\computador\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/09/25 12:38:13.957,=C:\Users\computador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/25 12:38:37.559,D:\Projetos\GravaExcecao\Exemplo01\Exemplo01.pas=C:\Users\computador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/25 12:38:37.559,D:\Projetos\GravaExcecao\Exemplo01\Exemplo01.dfm=C:\Users\computador\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/09/25 12:38:52.142,D:\Projetos\GravaExcecao\Exemplo01\Exemplo.dproj=C:\Users\computador\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/09/25 12:39:05.488,D:\Projetos\GravaExcecao\Exemplo01\UnitExemplo.dfm=D:\Projetos\GravaExcecao\Exemplo01\Exemplo01.dfm</Transaction>
+    <Transaction>2021/09/25 12:39:05.488,D:\Projetos\GravaExcecao\Exemplo01\UnitExemplo.pas=D:\Projetos\GravaExcecao\Exemplo01\Exemplo01.pas</Transaction>
+    <Transaction>2021/09/25 12:40:05.761,=D:\Projetos\GravaExcecao\UExcecao.pas</Transaction>
+    <Transaction>2021/09/25 12:40:05.823,=D:\Projetos\GravaExcecao\UInterface.pas</Transaction>
+  </Transactions>
+</BorlandProject>
